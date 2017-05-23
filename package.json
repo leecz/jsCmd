@@ -1,0 +1,13 @@
+{
+  "name": "ncopy",
+  "version": "1.0.0",
+  "main": "ncopy.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "glob": "^7.1.2"
+  },
+  "bin": {
+    "ncopy": "./ncopy.js"
+  }
+}
